@@ -5,4 +5,4 @@
 <li> JavaScript </li>
 </ul>
 ## Live
-file:///C:/Users/21cse/OneDrive/Documents/Desktop/Image%20Search%20Engine/index.html
+https://shrey-111.github.io/Image-Search-Engine/
